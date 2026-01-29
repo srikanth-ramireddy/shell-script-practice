@@ -5,4 +5,4 @@ echo "This is my first shell script"
 
 VAR1 = "SURESH"
 
-echo "Hi this $VAR1" 
+echo "Hi this ${VAR1}" 
